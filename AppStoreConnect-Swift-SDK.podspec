@@ -10,7 +10,7 @@ The Swift SDK to work with the App Store Connect API from Apple. See for more in
   s.homepage         = 'https://github.com/AvdLee/appstoreconnect-swift-sdk'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Antoine van der Lee' => 'contact@avanderlee.com' }
-  s.source           = { :git => 'https://github.com/AvdLee/appstoreconnect-swift-sdk.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ikloo/appstoreconnect-swift-sdk.git', :branch => 'yellow' }
   s.social_media_url = 'https://twitter.com/twannl'
 
   s.ios.deployment_target = '11.0'
